@@ -1,0 +1,23 @@
+body{
+font-family: 'Oswald', sans-serif;
+background: green;
+background: url(a1.jpg);
+background-repeat: repeat
+
+ }
+ h1 {
+ 	text-align: center;
+ 	text-decoration: underline;
+
+ }
+ a{
+ 	text-decoration: none;
+ 	color: orange;
+ 	text-align: center;
+ }
+ p{
+ 	color: 138;
+ 	background: green;
+ 	font-size: x-large;
+ }
+ 
